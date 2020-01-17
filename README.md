@@ -4,7 +4,7 @@
 
 ### Installing
 
-You wii=ll need to install Scrapy first
+You will need to install Scrapy first
 
 ```
 python -m pip install scrapy
